@@ -1,0 +1,5 @@
+cmake_minimum_required (VERSION 2.6)
+project (test_daemon)
+set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -Wall -Wextra -Werror -lpthread")
+file(GLOB SOURCES "daemon.c")
+add_executable(test_daemon ${SOURCES})

@@ -1,0 +1,3 @@
+/home/avishnev/Projects/TestTasks/IntC/Daemon/CMakeFiles/edit_cache.dir
+/home/avishnev/Projects/TestTasks/IntC/Daemon/CMakeFiles/rebuild_cache.dir
+/home/avishnev/Projects/TestTasks/IntC/Daemon/CMakeFiles/test_daemon.dir

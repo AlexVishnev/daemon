@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/avishnev/Projects/TestTasks/IntC/Daemon/daemon.c
+string.h
+-
+unistd.h
+-
+stdio.h
+-
+pthread.h
+-
+stdlib.h
+-
+sys/stat.h
+-
+stdbool.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/primes.dir/daemon.c.o  -o primes -rdynamic 

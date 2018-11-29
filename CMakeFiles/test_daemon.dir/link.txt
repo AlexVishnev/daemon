@@ -1,0 +1,1 @@
+/usr/bin/cc   -Wall -Wextra -Werror -lpthread   CMakeFiles/test_daemon.dir/daemon.c.o  -o test_daemon -rdynamic 
